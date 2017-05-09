@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     int scoreTeamA = 0;
 
     //Keeps track for Team B score
-    int scoreTeamB = 1;
+    int scoreTeamB = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
