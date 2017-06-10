@@ -134,7 +134,7 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="60dp"
         android:layout_below="@id/first_linear_layout"
         android:layout_margin="8dp"
         android:src="@drawable/basketball"/>
